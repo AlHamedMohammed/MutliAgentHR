@@ -1,5 +1,5 @@
 
-**HR Compliance & Rules Agent**  
+#**HR Compliance & Rules Agent**  
 
 ---
 
@@ -72,4 +72,5 @@ Deliver:
 - HR risk management and mitigation  
 - Policy auditing and gap identification  
 - Audit trail validation and reporting  
+
 
