@@ -1,5 +1,5 @@
 
-**HR Reporting & Analytics Agent**  
+# HR Reporting & Analytics Agent 
 
 ---
 
@@ -78,3 +78,4 @@ Deliver:
 - Advanced analytics and visualization  
 - Cross-agent insight correlation  
 - Decision-support modeling for executives  
+
