@@ -1,8 +1,5 @@
-# HRCompliance_Rules.md
 
-## Agent
 **HR Compliance & Rules Agent**  
-**Agentic AI – Senior Expert Consultant**
 
 ---
 
@@ -75,3 +72,4 @@ Deliver:
 - HR risk management and mitigation  
 - Policy auditing and gap identification  
 - Audit trail validation and reporting  
+
